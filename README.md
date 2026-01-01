@@ -11,7 +11,7 @@ My Senior Year Project, which I am currently working on, solves image and video 
 I'm currently learning full stack web development by building an AI powered note taking web app with 4 team members, it is pinned in my projects below.
 
 
-I have pinned my favourite projects below, but my favourite among those is (LLM compression and deployment on an edge device).
+I have pinned my favourite projects below, but my favourite among those is (LLM compression and deployment on an edge device)[https://github.com/ryder-4/Llama-3.1-8B-Compression-and-Deployment-on-Raspberry-Pi-4].
 
 
 You can contact me on my email:
