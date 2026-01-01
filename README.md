@@ -21,7 +21,7 @@ You can contact me on my email:
 
 ### Fun Facts:
 
-* I like making music and can play any song you name, challenge me  
+* I like making music and can play any song you name, challenge me ;)
 * Rainbow six siege is my favourite video game
 * If stem majors did not exist, I would be a commercial pilot 
 
