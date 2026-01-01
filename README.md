@@ -23,7 +23,7 @@ You can contact me on my email:
 
 * I like making music and can play any song you name, challenge me  
 * Rainbow six siege is my favourite video game
-* If tech majors did not exist, I would have been a commercial pilot 
+* If stem majors did not exist, I would be a commercial pilot 
 
 
 
