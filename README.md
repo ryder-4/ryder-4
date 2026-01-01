@@ -4,7 +4,7 @@ I'm Rayed, a Computer Science student based in Lahore, Pakistan.
 
 I enjoy solving problems using Machine Learning and related to Machine Learning. 
 
-I have experience in finetuning ML models, making them from scratch, and compressing them for edge-aware solutions. 
+I can finetune ML models, make them from scratch, and compress them for edge-aware solutions. 
 
 My Senior Year Project, which I am currently working on, solves image and video deterioration due to rain or rain streaks in particular, using concepts in Computer Vision and Deep Learning.
 
