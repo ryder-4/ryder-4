@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 I'm Rayed, a Computer Science student based in Lahore, Pakistan.
 
