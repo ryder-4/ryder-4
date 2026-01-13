@@ -6,7 +6,7 @@ I enjoy solving problems using Machine Learning and related to Machine Learning.
 
 I can finetune ML models, make them from scratch, and compress them for edge-aware solutions. 
 
-My Senior Year Project, which I am currently working on, solves image and video deterioration due to rain or rain streaks in particular, for which I am researching techniques in Computer Vision and Deep Learning.
+My Senior Year Project, which I am currently working on, solves image and video deterioration due to rain or rain streaks in particular, requiring extensive research in Computer Vision and Deep Learning techniques.
 
 I'm currently learning full stack web development by building an AI powered note taking web app with 4 team members, it is pinned in my projects below.
 
