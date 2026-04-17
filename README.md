@@ -38,7 +38,7 @@ You can contact me on my email:
 
 
 
-
+### 📄 [Download my Curriculum Vitae](./CV_Muhammad_Rayed.pdf)
 
 
 
