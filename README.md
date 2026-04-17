@@ -28,8 +28,7 @@ You can contact me on my email:
 
 #
 
-[Click here to view my CV](./CV - Muhammad_Rayed.pdf)
-
+[Click here to view my CV](./CV%20-%20Muhammad_Rayed.pdf)
 
 ### Fun Facts:
 
