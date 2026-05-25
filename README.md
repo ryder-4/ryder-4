@@ -8,7 +8,12 @@ I can finetune ML models, make them from scratch, and compress them for edge-awa
 
 My Senior Year Project, which I am currently working on, solves image and video deterioration due to rain or rain streaks in particular, requiring extensive research in Computer Vision and Deep Learning techniques.
 
-I'm currently learning full stack web development by building an AI powered note taking web app with 4 team members, it is pinned in my projects below.
+I'm currently enthusiastically searching for the following roles in the industry:
+* Computer Vision Engineer
+* Machine Learning Engineer / AI Engineer
+* Robotics Engineer
+* Data Engineer
+* Data Scientist
 
 
 I have pinned my favourite projects below, but my favourite among those is [LLM compression and deployment on an edge device](https://github.com/ryder-4/Llama-3.1-8B-Compression-and-Deployment-on-Raspberry-Pi-4).
