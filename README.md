@@ -2,11 +2,9 @@
 
 I'm Rayed, a Computer Science student based in Lahore, Pakistan.
 
-I enjoy solving problems using Machine Learning and related to Machine Learning. 
+I enjoy solving problems in the CV/DL/Edge Computing space. Have a look at my work in the pinned repos. 
 
-I can finetune models, make them from scratch, and compress them for edge-aware solutions. 
-
-My Senior Year Project, which I am currently working on, solves image and video deterioration due to rain or rain streaks in particular, requiring extensive research in Computer Vision and Deep Learning techniques.
+My Senior Project solves image and video deterioration due to rain or rain streaks in particular, requiring extensive research in Computer Vision and Deep Learning techniques.
 
 I'm currently enthusiastically searching for the following roles in the industry:
 * Computer Vision Engineer
@@ -14,9 +12,6 @@ I'm currently enthusiastically searching for the following roles in the industry
 * Robotics Engineer
 * Data Engineer
 * Data Scientist
-
-
-I have pinned my favourite projects below, but my favourite among those is [LLM compression and deployment on an edge device](https://github.com/ryder-4/Llama-3.1-8B-Compression-and-Deployment-on-Raspberry-Pi-4).
 
 
 You can contact me on my email:
