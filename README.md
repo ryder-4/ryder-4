@@ -28,7 +28,7 @@ You can contact me on my email:
 
 #
 
-[Click here to view my CV](./CV%20-%20Muhammad_Rayed.pdf)
+[Click here to view my resume](https://github.com/user-attachments/files/29671219/CV.-.Muhammad_Rayed_Digital_AI_CV.pdf)
 
 ### Fun Facts:
 
