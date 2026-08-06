@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Rayed, a Computer Science student based in Lahore, Pakistan.
+I'm Rayed, a AI Engineer based in Lahore, Pakistan.
 
 I enjoy solving problems in the CV/DL/Edge Computing space. Have a look at my work in the pinned repos. 
 
